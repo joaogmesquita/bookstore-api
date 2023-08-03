@@ -30,7 +30,7 @@ public class Livro implements Serializable {
 	public Livro() {
 		super();
 	}
-
+	
 	public Livro(Integer id, String titulo, String nome_autor, String texto, Categoria categoria) {
 		super();
 		this.id = id;
